@@ -1,0 +1,6 @@
+{
+  "name": "ProjectMap PH",
+  "description": "An interactive project locator that allows citizens to search and discover development projects across different locations in the Philippines.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
